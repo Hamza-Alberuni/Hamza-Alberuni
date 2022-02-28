@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hamza-Alberuni
 - 👀 I’m interested in Mern Stack ...
-- 🔭 I’m currently working on MERN STACK
-- 🌱 I’m building projects using React JS and Node JS
+- 🔭 I’m currently working on React Js
+- 🌱 I’m building projects using React JS
 - 👯 I’m looking to collaborate on React based Front-end projects
 - 🤔 I’m looking for help with NodeJs
 - 💬 Ask me about HTML, CSS, JS, ReactJs
